@@ -1,0 +1,26 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/hugo,vscode
+# Edit at https://www.toptal.com/developers/gitignore?templates=hugo,vscode
+
+### Images go to AWS, except for the LQIPs
+static/images
+!static/images/lqip
+
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/_gen/
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+### vscode ###
+.vscode/*
+*.code-workspace
+
+.env
+
+# End of https://www.toptal.com/developers/gitignore/api/hugo,vscode
