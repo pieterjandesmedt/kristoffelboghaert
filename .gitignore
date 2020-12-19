@@ -3,8 +3,12 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo,vscode
 
 ### Images go to AWS, except for the LQIPs
-static/images
-!static/images/lqip
+!static/images/
+
+static/images/*
+!static/images/lqip/
+
+!static/images/lqip/*
 
 ### Hugo ###
 # Generated files by hugo
