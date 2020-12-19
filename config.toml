@@ -26,20 +26,20 @@ sectionPagesMenu = "main"
   url = "about"
   weight = 2
 
-[[menu.main]]
-  name = "Projects [X]L"
-  identifier = "large"
-  url = "large"
-  weight = 4
+# [[menu.main]]
+#   name = "Projects [X]L"
+#   identifier = "large"
+#   url = "large"
+#   weight = 4
 
-[[menu.main]]
-  name = "Projects M"
-  identifier = "medium"
-  url = "medium"
-  weight = 5
+# [[menu.main]]
+#   name = "Projects M"
+#   identifier = "medium"
+#   url = "medium"
+#   weight = 5
 
-[[menu.main]]
-  name = "Projects [X]S"
-  identifier = "small"
-  url = "small"
-  weight = 6
+# [[menu.main]]
+#   name = "Projects [X]S"
+#   identifier = "small"
+#   url = "small"
+#   weight = 6
