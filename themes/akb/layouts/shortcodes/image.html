@@ -1,0 +1,4 @@
+{{ if .IsNamedParams }}
+	{{ $image := dict "src" (.Get "src") "alt" (.Get "alt") "ratio" (default "" (.Get "ratio")) "class" (default "" (.Get "class")) "attention" (default "false" (.Get "attention")) }}
+	{{- partial "micro/image.html" $image -}}
+{{ end }}

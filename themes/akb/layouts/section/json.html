@@ -1,0 +1,9 @@
+[{{ range $index, $page := .Site.RegularPages }}{{ if $page.IsPage }}{{ if and $index (gt $index 0) }}, {{ end }}{
+	"url": "{{ $page.RelPermalink }}",
+	"title": "{{ $page.Title | safeHTML }}",
+	"subtitle": "{{ if $page.Params.subtitle }}{{ $page.Params.subtitle }}{{end}}",
+	"section": "{{ .Section }}",
+	"tags": [{{ range $tindex, $tag := $page.Params.tags }}{{ if $tindex }}, {{ end }}"{{ $tag }}"{{ end }}],
+	"description": "{{if .Description }}{{.Description}}{{end}}",
+	"content": "{{ delimit $page.PlainWords " "}}"
+}{{ end }}{{ end }}]

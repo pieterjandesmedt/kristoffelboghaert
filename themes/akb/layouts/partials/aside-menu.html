@@ -1,0 +1,22 @@
+<!-- Sibling contents -->
+{{ if eq .Params.menu.main.identifier nil}}
+
+{{ $currentURL :=  .RelPermalink }}
+{{ $currentMenu :=  ($.Scratch.Get "CurrentMenu") }}
+{{ if $currentMenu.Children }}
+<div class="column is-narrow">
+	<aside class="menu">
+		<ul class="menu-list">
+			{{ range $currentMenu.Children }}
+			{{ if eq .Identifier ""}}
+			<li class="is-uppercase">
+				<a href="{{.URL | relURL}}" class="{{ if eq .URL $currentURL }}is-active{{ end }}">{{ .Name }}</a>
+			</li>
+			{{ end }}
+			{{ end }}
+		</ul>
+	</aside>
+</div>
+<div class="column is-1"></div>
+{{ end }}
+{{ end }}

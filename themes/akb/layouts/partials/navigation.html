@@ -1,0 +1,9 @@
+{{ $currentNode := . }}
+{{ range where .Site.Menus.main "Menu" "main" }}
+    <a href="{{.URL | relURL }}" class="navbar-item is-uppercase {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}is-active{{end}}">{{.Name}}</a>
+        {{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }}
+        {{ $.Scratch.Set "CurrentMenu" . }}
+        {{ $.Scratch.Add "Breadcrumbs" (print " > <a href='" .URL  "'>" .Name "</a>" )  }}
+	    {{ end }}
+
+{{end}}

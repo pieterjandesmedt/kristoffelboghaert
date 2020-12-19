@@ -1,0 +1,19 @@
+<footer class="footer mt-6"></footer>
+
+{{/* for resources.Get to work, resources should be in the /assets subdirectory of your theme */}}
+
+{{ $bulma := resources.Get "css/bulma.sass" | toCSS }}
+{{ $custom := resources.Get "css/style.scss" | toCSS }}
+
+{{ $style := slice $bulma $custom | resources.Concat "css/style.css" | minify | fingerprint }}
+
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+<script>
+	const observer = lozad('.lozad', {
+		rootMargin: '500px 0px', // syntax similar to that of CSS Margin
+	}); // lazy loads elements with default selector as '.lozad'
+	observer.observe();
+
+</script>
