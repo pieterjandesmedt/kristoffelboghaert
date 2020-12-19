@@ -4,7 +4,11 @@
 	<div class="container">
 		{{ partial "main-nav" . }}
 		<div class="columns mt-3">
-			<div class="column content">{{ .Content }}</div>
+			<div class="column">
+				<div class="page-content content">
+					{{ .Content }}
+				</div>
+			</div>
 		</div>
 	</div>
 
