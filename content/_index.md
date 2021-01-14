@@ -14,4 +14,4 @@ tel. +32 9 233 90 30
 
 &nbsp;
 
-{{< image src="english_MEMORY&MOMENTS_201214.jpg" class="is-fullwidth" >}}
+{{< image src="english_MEMORY_MOMENTS_201214.jpg" class="is-fullwidth" >}}
