@@ -14,4 +14,4 @@ tel. +32 9 233 90 30
 
 &nbsp;
 
-{{< image src="AKB_Book_Website.jpg" alt="AKB Book now available" class="is-fullwidth" >}}
+{{< image src="english_MEMORY&MOMENTS_201214.jpg" class="is-fullwidth" >}}

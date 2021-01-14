@@ -1,5 +1,8 @@
 #! /bin/bash
 
+# Set current working directory to script directory
+cd "${0%/*}"
+
 # Set AWS environment variables
 export $(grep -v '^#' .env | xargs)
 
@@ -17,7 +20,6 @@ echo -e "${YELLOW}\nProcessing images...${NOCOLOR}"
 ./process-images.sh
 
 # Push git repository
-cd "`dirname "$0"`"
 echo -e "${YELLOW}\nPushing site...${NOCOLOR}"
 git add .
 git commit -a -m "$MESSAGE"
@@ -25,8 +27,8 @@ git push
 
 # Sync images with AWS
 echo -e "${YELLOW}\nPushing images...${NOCOLOR}"
-aws s3 sync static/images/ s3://kristoffelboghaert --exclude "lqip/*.*" --exclude ".*"
+aws s3 sync static/images/ s3://kristoffelboghaert --exclude "lqip/*.*" --exclude "icons/*.*" --exclude ".*"
 
 # Done
 echo -e "${GREEN}\nDone. The site will be online in a minute or so.${NOCOLOR}"
-echo -e "You can close this window.\n"
+echo -e "${GREEN}You can close this window.\n${NOCOLOR}"
