@@ -2,7 +2,7 @@
 author: Kristoffel Boghaert
 date: 2014-09-28
 linktitle: Biography
-title: Biography
+title: Biography & Thoughts
 weight: 2
 
 menu:
@@ -42,3 +42,13 @@ Sinds 2006 geeft hij les aan de architectuurfaculteit LOCI van de UCL campus Tou
 Kristoffel Boghaert heeft zich bijzonder bekwaamd in, en heeft een speciale affiniteit met het renoveren van, en het interveniëren in bestaande (culturele en sacrale) contexten.
 
 > “Zijn projecten zijn tegelijkertijd complex en terughoudend. Op basis van verrijkende analyses, sobere ingrepen en zuiver materiaalgebruik weet hij ruimtes een specifieke ingetogen kwaliteit te geven.”
+
+## Thoughts
+
+\> [Flanders Architectural Yearbook 2002-2003 (Katrien Vandermarliere)](/documents/20040503_YB_AKB.pdf)
+
+\> [TASTING ARCHITECTURE. A marvellous ruin (De Standaard, Saturday 14th June 2003)](/documents/20060123_KVS_AKB.pdf)
+
+\> [Studio AKB - Atelier for a sculptor](/documents/AKB_A+%20Plus%20Hors%20Serie.pdf)
+
+\> [35m3 (A+ 198)](/documents/AKB_A+198%20artikel015.pdf)

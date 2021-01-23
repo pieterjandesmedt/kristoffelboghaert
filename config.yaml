@@ -1,0 +1,49 @@
+title: Architectuur Kristoffel Boghaert
+theme: kristoffelboghaert
+languageCode: en
+
+pluralizelisttitles: false
+sectionPagesMenu: main
+
+module:
+  imports:
+    path: github.com/pieterjandesmedt/hugo-theme-kristoffelboghaert
+    # path: "../../../hugo-themes/kristoffelboghaert"
+
+taxonomies:
+- category: categories
+- tag: tags
+- series: series
+
+params:
+  author: Kristoffel Boghaert
+  brand: AKB
+
+# Header Menu
+menu:
+  main:
+  - name: Projects [X]S
+    identifier: small
+    url: /small
+    weight: 1
+
+  - name: Projects M
+    identifier: medium
+    url: /medium
+    weight: 2
+
+  - name: Projects [X]L
+    identifier: large
+    url: /large
+    weight: 3
+
+  - name: About AKB
+    identifier: about
+    url: /about/biography
+    weight: 4
+
+  - name: Contact
+    identifier: contact
+    url: /contact
+    weight: 5
+
