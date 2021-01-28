@@ -22,9 +22,9 @@ params:
 # Header Menu
 menu:
   main:
-  - name: Projects [X]S
+  - name: Bloop
     identifier: small
-    url: /small
+    url: /bla
     weight: 1
 
   - name: Projects M
