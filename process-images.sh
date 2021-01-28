@@ -6,10 +6,12 @@ files=$(ls -p $imgDir/*.*)
 
 mkdir -p $imgDir/lqip
 
-printf "checking $(ls -1 $imgDir/*.* | wc -l) files"
+printf "checking $(ls -1 $imgDir/*.* | wc -l) files. "
 
 OIFS="$IFS"
 IFS=$'\n'
+OS=$(uname -s)
+echo "Operating system is $OS"
 
 for file in `find $imgDir/*.* -type f`
 do
@@ -37,8 +39,13 @@ do
 
 	if test -f $lqip; then
 
-		a=$(stat -f "%Um" "$imgDir/$original")
-		b=$(stat -f "%Um" "$lqip")
+		if [ $OS == "Darwin" ]; then
+			a=$(stat -f "%Um" "$imgDir/$original")
+			b=$(stat -f "%Um" "$lqip")
+		else
+			a=$(stat "$imgDir/$original" --printf %Y)
+			b=$(stat "$lqip" --printf %Y)
+		fi
 
 		if [ $a \> $b ]; then
 			printf "\n$original is younger than lqip/$filename.svg"
