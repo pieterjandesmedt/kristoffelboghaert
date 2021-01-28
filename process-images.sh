@@ -23,14 +23,14 @@ do
 	# exiftool -q "$file" -if '$ImageWidth > 1400 || $ImageHeight > 1400 and !print "$Directory/$Filename\0"' | xargs -0 -R 2 -I "%" echo "%"
 	# xargs -0 -R 2 -I "%" convert -resize "$maxSizex$maxSize>" "%" "%"
 
-	width=$(identify -format "%w" "$imgDir/$original")
-	height=$(identify -format "%h" "$imgDir/$original")
+	width=$(magick identify -format "%w" "$imgDir/$original")
+	height=$(magick identify -format "%h" "$imgDir/$original")
 
 	if (( $width > $maxSize )) || (( $height > $maxSize )); then
 		printf "\n$original was $width x $height"
-		convert "$imgDir/$original" -resize ${maxSize}x${maxSize}\> "$imgDir/$original"
-		width2=$(identify -format "%w" "$imgDir/$original")
-		height2=$(identify -format "%h" "$imgDir/$original")
+		magick convert "$imgDir/$original" -resize ${maxSize}x${maxSize}\> "$imgDir/$original"
+		width2=$(magick identify -format "%w" "$imgDir/$original")
+		height2=$(magick identify -format "%h" "$imgDir/$original")
 		printf "... resized to $width2 x $height2"
 	fi
 
