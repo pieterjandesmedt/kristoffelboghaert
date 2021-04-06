@@ -4,7 +4,7 @@ subtitle: prayers room in the Catharina hospital of Eindhoven
 linktitle: CZE
 author: Kristoffel Boghaert
 date: 2018-03-06
-weight: 97
+weight: 91
 images:
 - 001_CZE.jpg
 - 002_CZE.jpg
@@ -17,7 +17,7 @@ images:
 menu:
   main:
     name: CZE
-    parent: medium
+    parent: sacred
 ---
 
 &nbsp;|&nbsp;

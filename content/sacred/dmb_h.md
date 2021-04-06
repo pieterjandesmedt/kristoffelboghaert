@@ -1,10 +1,10 @@
 ---
 title: DMB_H
-subtitle: welcoming infrastructure for the German military cemetery (1° world war) of Hooglede
+subtitle: reception infrastructure of a German military cemetery
 linktitle: DMB_H
 author: Kristoffel Boghaert
 date: 2018-03-06
-weight: 94
+weight: 96
 images:
 - 001_DMB_H.jpg
 - 002_DMB_H.jpg
@@ -19,7 +19,7 @@ images:
 menu:
   main:
     name: DMB_H
-    parent: medium
+    parent: sacred
 ---
 
 &nbsp;|&nbsp;

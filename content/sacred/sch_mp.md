@@ -1,10 +1,10 @@
 ---
 author: Kristoffel Boghaert
-subtitle: SCH_MP
+subtitle: listed parc cemetery Schoonselhof, masterplan
 date: 2014-09-28
 linktitle: SCH_MP
-title: Parc Schoonselhof Masterplan
-weight: 98
+title: SCH_MP
+weight: 90
 images:
 - 001_SCH_MP.jpg
 - 002_SCH_MP.jpg
@@ -16,7 +16,7 @@ images:
 menu:
   main:
     name: SCH_MP
-    parent: large
+    parent: sacred
 ---
 
 The parc is a heritage landscape with a castle and farm of the 17° century, including a French style garden and an English style garden.

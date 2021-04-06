@@ -4,7 +4,7 @@ subtitle: new crematory for the Brussels capital region
 linktitle: CRE
 author: Kristoffel Boghaert
 date: 2018-03-06
-weight: 93
+weight: 99
 images:
 - 001_CRE.jpg
 - 002_CRE.jpg
@@ -29,7 +29,7 @@ images:
 menu:
   main:
     name: CRE
-    parent: medium
+    parent: sacred
 ---
 
 &nbsp;|&nbsp;

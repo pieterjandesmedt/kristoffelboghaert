@@ -22,19 +22,19 @@ params:
 # Header Menu
 menu:
   main:
-  - name: Bloop
-    identifier: small
-    url: /bla
+  - name: projects SACRED
+    identifier: sacred
+    url: /sacred
     weight: 1
 
-  - name: Projects M
-    identifier: medium
-    url: /medium
+  - name: projects DWELLING
+    identifier: dwelling
+    url: /dwelling
     weight: 2
 
-  - name: Projects [X]L
-    identifier: large
-    url: /large
+  - name: projects WORKPLACE & CULTURAL
+    identifier: wpc
+    url: /wpc
     weight: 3
 
   - name: About AKB

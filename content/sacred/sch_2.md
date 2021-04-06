@@ -1,25 +1,25 @@
 ---
-title: SCH
-subtitle: new grounds for the cinders in the heritage parc-cemetery Schoonselhof
-linktitle: SCH
+title: SCH_2
+subtitle: parc cemetery Schoonselhof, columbaria and ashes meadows
+linktitle: SCH_2
 author: Kristoffel Boghaert
 date: 2018-03-06
-weight: 92
+weight: 95
 images:
-- 001_SCH1.jpg
-- 002_SCH1.jpg
-- 003_SCH1.jpg
-- 004_SCH1.jpg
-- 005_SCH1.jpg
-- 006_SCH1.jpg
-- 007_SCH1.jpg
-- 008_SCH1.jpg
-- 009_SCH1.jpg
+- 001_SCH_2.jpg
+- 002_SCH_2.jpg
+- 003_SCH_2_.jpg
+- 004_SCH_2.jpg
+- 005_SCH_2.jpg
+- 006_SCH_2.jpg
+- 007_SCH_2.jpg
+- 008_SCH_2.jpg
+- 009_SCH_2.jpg
 
 menu:
   main:
-    name: SCH
-    parent: medium
+    name: SCH_2
+    parent: sacred
 ---
 
 &nbsp;|&nbsp;

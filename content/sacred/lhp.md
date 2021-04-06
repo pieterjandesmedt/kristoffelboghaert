@@ -1,10 +1,10 @@
 ---
-title: LHP_MP
-subtitle: Masterplan of the Lettenhof parc including a new cemetery
-linktitle: LHP_MP
+title: LHP
+subtitle: masterplan and new cemetery Lettenhof park
+linktitle: LHP
 author: Kristoffel Boghaert
 date: 2014-09-28
-weight: 95
+weight: 97
 images:
 - 001_LHP.jpg
 - 002_LHP.jpg
@@ -14,8 +14,8 @@ images:
 
 menu:
   main:
-    name: LHP_MP
-    parent: large
+    name: LHP
+    parent: sacred
 ---
 
 &nbsp;|&nbsp;

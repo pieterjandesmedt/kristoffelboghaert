@@ -1,10 +1,10 @@
 ---
 title: ANNA
-subtitle: reconversion of a parish church (°1960), Antwerp left bank
+subtitle: refurbishment of a 1960's church
 linktitle: ANNA
 author: Kristoffel Boghaert
 date: 2018-03-06
-weight: 99
+weight: 98
 images:
 - 001_ANNA.jpg
 - 002_ANNA.jpg
@@ -21,7 +21,7 @@ images:
 menu:
   main:
     name: ANNA
-    parent: medium
+    parent: sacred
 ---
 
 &nbsp;|&nbsp;

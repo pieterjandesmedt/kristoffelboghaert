@@ -14,7 +14,7 @@ images:
 menu:
   main:
     name: KVD
-    parent: small
+    parent: sacred
 ---
 
 &nbsp;|&nbsp;

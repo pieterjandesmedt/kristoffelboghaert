@@ -18,10 +18,7 @@ menu:
     parent: small
 ---
 
-&nbsp;|&nbsp;
-------|------
-location	|		Evergem (BE)
-client		|		private
+./puclient		|		private
 surface		|		300 m2
 icw			|		SEC structural engineer
 phase		|		completed
