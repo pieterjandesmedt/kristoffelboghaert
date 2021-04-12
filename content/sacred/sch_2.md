@@ -1,33 +1,26 @@
 ---
-title: SCH_2
-subtitle: parc cemetery Schoonselhof, columbaria and ashes meadows
-linktitle: SCH_2
+title: SCH_AS
+subtitle: park cemetery Schoonselhof, columbaria and ashes meadows / phase 2
+linktitle: SCH_AS
 author: Kristoffel Boghaert
-date: 2018-03-06
-weight: 95
+date: 2021-04-12
+weight: 6
+banner: SCH_AS_001.jpg
 images:
-- 001_SCH_2.jpg
-- 002_SCH_2.jpg
-- 003_SCH_2_.jpg
-- 004_SCH_2.jpg
-- 005_SCH_2.jpg
-- 006_SCH_2.jpg
-- 007_SCH_2.jpg
-- 008_SCH_2.jpg
-- 009_SCH_2.jpg
+- SCH_AS_001.jpg
 
 menu:
   main:
-    name: SCH_2
+    name: SCH_AS
     parent: sacred
 ---
+laureate five-yearly Pierre Carsoel Architecture Prize of the Royal Academy of Belgium, 2019
 
 &nbsp;|&nbsp;
 ------|------
-location	|		Antwerp (BE)
+date  |   2013-2017
+location	|		Antwerpen (BE)
 client		|		city of Antwerp
-surface		|		1 ha
-icw			|		Fondu landscape <br/>UTIL structural engineer
-phase		|		invited competition (OpenOproep) 1° prize
-date		|		1° phase 2011-2012, 2° phase 2013-2017
-
+icw			|   Fondu landscape architects, UTIL structural engineer
+assisted by   |   Pieter D'haeseleer
+photography   |   Corentin Haubruge

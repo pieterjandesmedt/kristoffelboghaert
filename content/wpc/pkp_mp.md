@@ -1,30 +1,25 @@
 ---
-title:  "PKP_MP"
-subtitle: masterplan of the town center and the parish church of Poelkapelle
-linktitle:  "PKP_MP"
-author:  "Kristoffel Boghaert"
-date:  2018-03-06
-weight:  94
+title: PKP_MP
+subtitle: masterplan of the parish church and the town center of Poelkapelle
+linktitle: PKP_MP
+author: Kristoffel Boghaert
+date: 2021-04-12
+weight: 1
+banner: PKP_MP_001.jpg
 images:
-- 001_PKP_MP.jpg
-- 002_PKP_MP.jpg
-- 003_PKP_MP.jpg
-- 004_PKP_MP.jpg
-- 005_PKP_MP.jpg
+- PKP_MP_001.jpg
 
 menu:
   main:
-    name:  "PKP_MP"
-    parent:  "large"
+    name: PKP_MP
+    parent: wpc
 ---
+pilot project followed by the quality chamber of West Flanders
 
 &nbsp;|&nbsp;
 ------|------
-location	|	Langemark-Poelkapelle (BE) <br/>(followed by the Kwaliteitskamer Provincie West-Vlaanderen)
-client		|	municipality of Langemark-Poelkapelle
-surface		|	4000 m2
-icw			|	tomvanmieghemarchitecten
-phase		|	completed
-date		|	2013-2014
-3D images	|	tomvanmieghemarchitecten
-
+date  |   2013-2014
+location	|		Poelkapelle (BE)
+client		|		municipality of Langemark-Poelkapelle
+icw			|   Tom Van Mieghem architects, MOUTON structural engineer
+3D images   |   Tom Van Mieghem architects

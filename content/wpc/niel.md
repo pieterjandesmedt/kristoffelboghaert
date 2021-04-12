@@ -1,32 +1,25 @@
 ---
 title: NIEL
-subtitle: renovation and extension of a library in an master Art-Deco house
+subtitle: public libary in an Art-Deco residence
 linktitle: NIEL
 author: Kristoffel Boghaert
-date: 2018-03-06
-weight: 95
+date: 2021-04-12
+weight: 8
+banner: NIEL_001.jpg
 images:
-- 001a_NIEL.jpg
-- 001b_NIEL.jpg
-- 002_NIEL.jpg
-- 003_NIEL.jpg
-- 004_NIEL.jpg
-- 005_NIEL.jpg
-- 006_NIEL.jpg
-- 007_NIEL.jpg
+- NIEL_001.jpg
 
 menu:
   main:
     name: NIEL
-    parent: medium
+    parent: wpc
 ---
+competition, 2° prize
 
 &nbsp;|&nbsp;
 ------|------
+date  |  2011-2012
 location	|		Niel (BE)
 client		|		municipality of Niel
-surface		|		1000 m2
-icw			|
-phase		|		invited competition (OpenOproep), 2° prize
-date		|		2012
-
+icw		|		Daidalos Peutz (acoustics & building physics consultancy)
+assisted by		|		Pieter D'haeseleer

@@ -1,33 +1,26 @@
 ---
 title: SCH_AS
-subtitle: parc cemetery Schoonselhof, columbaria and ashes meadows
+subtitle: park cemetery Schoonselhof, columbaria and ashes meadows / phase 1
 linktitle: SCH_AS
 author: Kristoffel Boghaert
-date: 2021-01-28
-weight: 94
+date: 2021-04-12
+weight: 5
+banner: SCH_AS_001.jpg
 images:
-- 001_SCH_AS.jpg
-- 002_SCH_AS.jpg
-- 003_SCH_AS.jpg
-- 004_SCH_AS.jpg
-- 005_SCH_AS.jpg
-- 006_SCH_AS.jpg
-- 007_SCH_AS.jpg
-- 008_SCH_AS.jpg
-- 009_SCH_AS.jpg
+- SCH_AS_001.jpg
 
 menu:
   main:
     name: SCH_AS
     parent: sacred
 ---
+competition, 1° prize
 
 &nbsp;|&nbsp;
 ------|------
-location	|		Antwerp (BE)
+date  |   2011-2012
+location	|		Antwerpen (BE)
 client		|		city of Antwerp
-surface		|		1 ha
-icw			|		Fondu landscape <br/>UTIL structural engineer
-phase		|		invited competition (OpenOproep) 1° prize
-date		|		1° phase 2011-2012, 2° phase 2013-2017
-
+icw			|   Fondu landscape architects, UTIL structural engineer
+assisted by   |   Wim Voorspoels
+photography   |   Kristien Daem, Corentin Haubruge

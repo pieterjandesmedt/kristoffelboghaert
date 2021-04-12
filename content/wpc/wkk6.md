@@ -1,27 +1,24 @@
 ---
 title: WKK6
-subtitle: atelier pour un sculpteur
+subtitle: atelier d'un sculpteur
 linktitle: WKK6
 author: Kristoffel Boghaert
-date: 2018-03-06
-weight: 94
+date: 2021-04-12
+weight: 4
+banner: WKK6_001.jpg
 images:
-- 001_WKK6.jpg
-- 002_WKK6.jpg
-- 003_WKK6.jpg
+- WKK6_001.jpg
 
 menu:
   main:
     name: WKK6
-    parent: small
+    parent: wpc
 ---
+published in [Jaarboek Achitectuur Vlaanderen], edition 2004
 
 &nbsp;|&nbsp;
 ------|------
+date  |  2002
 location	|		Gent (BE)
-client		|		privat
-surface		|		20 m2
-phase		|		completed
-date		|		2000-2002
-photography	|		Kristien Daem
-
+client		|		private
+photography			|   Kristien Daem

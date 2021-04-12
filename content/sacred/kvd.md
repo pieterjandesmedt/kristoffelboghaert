@@ -3,13 +3,11 @@ title: KVD
 subtitle: tombeau pour une jeune femme
 linktitle: KVD
 author: Kristoffel Boghaert
-date: 2018-03-06
-weight: 93
+date: 2021-04-12
+weight: 4
+banner: KVD_001.jpg
 images:
-- 001_KVD.jpg
-- 002_KVD.jpg
-- 003_KVD.jpg
-- 004_KVD.jpg
+- KVD_001.jpg
 
 menu:
   main:
@@ -19,12 +17,10 @@ menu:
 
 &nbsp;|&nbsp;
 ------|------
-locatio		|		Basel (Kruibeke) (BE)
+date  |   2000-2001
+location	|		Basel (Kruibeke) (BE)
 client		|		private
-icw			|
-phase		|		completed
-date		|		2000-2001
-photography	|		Kristien Daem
+icw			|   Nathalie Vanlippevelde (steel structure)
+photography   |   Kristien Daem
 
-de graftombe werd gemaakt van balegemse zandsteenblokken en witte albastplaten.
-
+The tomb was made of Balegem sandstone blocks and white alabaster slabs.

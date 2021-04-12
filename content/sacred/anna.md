@@ -1,35 +1,26 @@
 ---
 title: ANNA
-subtitle: refurbishment of a 1960's church
+subtitle: refurbishment of a 1960's parish church
 linktitle: ANNA
 author: Kristoffel Boghaert
-date: 2018-03-06
-weight: 98
+date: 2021-04-12
+weight: 9
+banner: ANNA_001.jpg
 images:
-- 001_ANNA.jpg
-- 002_ANNA.jpg
-- 003_ANNA.jpg
-- 004_ANNA.jpg
-- 005_ANNA.jpg
-- 006_ANNA.jpg
-- 007_ANNA.jpg
-- 008_ANNA.jpg
-- 009_ANNA.jpg
-- 010_ANNA.jpg
-- 011_ANNA.jpg
+- ANNA_001.jpg
 
 menu:
   main:
     name: ANNA
     parent: sacred
 ---
+competition, 1° prize
 
 &nbsp;|&nbsp;
 ------|------
-location	|		Antwerpen (BE)
-client		|		church Sint Anna ten Drieën, Linkeroever, Antwerpen
-surface		|		1000 m2
-icw			|
-phase		|		invited competition (OpenOproep) 1° prize
-date		|		2007
-3D images	|		Gert Jansseune
+date  |   2007-2008 / on hold
+location	|		Antwerpen left bank (BE)
+client		|		church Sint Anna ten Drieën (St. Anna's in Three Church)
+icw			|   BAS Dirk Jaspaert (structural engineer), Boydens (services engineer), Daidalos Peutz (acoustics & building physics consultancy), Gaby De Keyser (project management & quantity surveyor), Koen Jordens (theologian)
+assisted by   |   Sam De Vocht
+3D images   |   Gert Jansseune

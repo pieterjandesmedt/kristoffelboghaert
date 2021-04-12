@@ -1,37 +1,23 @@
 ---
-author: Kristoffel Boghaert
-subtitle: SLT_MP
-date: 2014-09-28
+title: SLT_MP
+subtitle: masterplan of the school campus Saint-Luc Tournai
 linktitle: SLT_MP
-title: Saint-Luc Tournai Masterplan
-weight: 97
+author: Kristoffel Boghaert
+date: 2021-04-12
+weight: 15
+banner: SLT_MP_001.jpg
 images:
-- 001_SLT.jpg
-- 002_SLT.jpg
-- 003_SLT.jpg
-- 004_SLT.jpg
-- 005_SLT.jpg
-- 006_SLT.jpg
-- 007_SLT.jpg
-- 008_SLT.jpg
-- 009_SLT.jpg
-- 010_SLT.jpg
-- 011_SLT.jpg
-- 012_SLT.jpg
-- 013_SLT.jpg
+- SLT_MP_001.jpg
 
 menu:
   main:
     name: SLT_MP
-    parent: large
+    parent: wpc
 ---
 
 &nbsp;|&nbsp;
 ------|------
-location	|	Tournai (BE)
-client		|	board of ISA St-Luc, Tournai
-surface		|	9 ha
-phase		|	masterplan completed
-date		|	2008
-
-masterplan of the schoolcampus Saint-Luc in Tournai (BE), including the renovation and extension of the architecture school
+date		|		2008
+location		|		Tournai (BE)
+client		|		board of ISA St-Luc, Tournai
+assisted by		|		Wim Voorspoels

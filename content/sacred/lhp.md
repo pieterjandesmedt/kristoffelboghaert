@@ -3,26 +3,26 @@ title: LHP
 subtitle: masterplan and new cemetery Lettenhof park
 linktitle: LHP
 author: Kristoffel Boghaert
-date: 2014-09-28
-weight: 97
+date: 2021-04-12
+weight: 8
+banner: LHP_001.jpg
 images:
-- 001_LHP.jpg
-- 002_LHP.jpg
-- 003_LHP.jpg
-- 004_LHP.jpg
-- 005_LHP.jpg
+- LHP_001.jpg
 
 menu:
   main:
     name: LHP
     parent: sacred
 ---
+competition
 
 &nbsp;|&nbsp;
 ------|------
-location		|	Zwevegem - Knokke (BE)
-client			|	municipality of Zwevegem
-surface			|	4000 m2
-icw				|	tomvanmieghemarchitecten <br/> ctrl-z landscape
-phase			|	invited competition (WinVorm)
-date			|	2013
+date  |   2013
+location	|		Knokke (Zwevegem) (BE)
+client		|		municipality of Zwevegem
+icw			|   Tom Van Mieghem architects, CTRL-Z landscape architecture
+assisted by   |   Pieter D'haeseleer
+photography   |   Corentin Haubruge
+
+The layout of a masterplan of the natural landscape Lettenhofpark, including the design of a new municipal cemetery in a former clay pit area.
