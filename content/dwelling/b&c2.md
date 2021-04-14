@@ -5,9 +5,9 @@ linktitle: B&C2
 author: Kristoffel Boghaert
 date: 2021-04-12
 weight: 6
-banner: B&C2_001.jpg
+banner: BC2_001.jpg
 images:
-- B&C2_001.jpg
+- BC2_001.jpg
 
 menu:
   main:

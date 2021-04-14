@@ -5,9 +5,9 @@ linktitle: TINK1&2
 author: Kristoffel Boghaert
 date: 2021-04-12
 weight: 7
-banner: TINK1&2_001.jpg
+banner: TINK12_001.jpg
 images:
-- TINK1&2_001.jpg
+- TINK12_001.jpg
 
 menu:
   main:
