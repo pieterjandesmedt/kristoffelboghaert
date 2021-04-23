@@ -4,6 +4,7 @@ languageCode: en
 
 pluralizelisttitles: false
 sectionPagesMenu: main
+paginate: 100
 
 module:
   imports:
@@ -18,26 +19,27 @@ taxonomies:
 params:
   author: Kristoffel Boghaert
   brand: AKB
+  subtitle: architectuur Kristoffel Boghaert
 
 # Header Menu
 menu:
   main:
-  - name: projects SACRED
+  - name: projects<br/>SACRED
     identifier: sacred
     url: /sacred
     weight: 1
 
-  - name: projects DWELLING
+  - name: projects<br/>DWELLING
     identifier: dwelling
     url: /dwelling
     weight: 2
 
-  - name: projects WORKPLACE & CULTURAL
+  - name: projects<br/>WORKPLACE & CULTURAL
     identifier: wpc
     url: /wpc
     weight: 3
 
-  - name: About AKB
+  - name: About<br/>AKB
     identifier: about
     url: /about/biography
     weight: 4

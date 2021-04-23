@@ -25,6 +25,6 @@ hugo.linux
 .vscode/*
 *.code-workspace
 
-.env
+.env*
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo,vscode
